@@ -1,0 +1,7 @@
+User_ID,Cycle_Start_Date,Cycle_Length_Days,Ovulation_Day,Mood_Score,Cramping_Intensity
+1,2024-01-01,28,14,3,2
+1,2024-01-30,29,15,4,3
+1,2024-02-28,30,15,2,1
+2,2024-01-10,29,15,5,4
+2,2024-02-08,30,16,4,3
+2,2024-03-09,31,16,3,2
