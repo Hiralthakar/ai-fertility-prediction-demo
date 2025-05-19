@@ -29,12 +29,6 @@ Fertility tracking is critical for many women but often lacks personalization. A
 - Early diagnosis of conditions like PCOS
 - Women's health access in underserved regions
 
-## 🧠 About Me
-
-I'm exploring a **PhD in AI for Women’s Fertility & Reproductive Health**.  
-This project is part of my learning journey — from teaching to applying AI in FemTech.  
-I’m open to collaboration, feedback, and mentorship.
-
 ## 📌 Next Steps
 - Integrate real-world data (with privacy ethics)
 - Extend to PCOS detection and personalized fertility apps
